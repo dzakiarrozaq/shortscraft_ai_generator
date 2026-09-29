@@ -2,7 +2,7 @@
 
 ShortsCraft Studio is an AI-native vertical short-form production platform designed for content creators, solopreneurs, and agencies. It transforms raw ideas, historical archives, and viral topics into director-grade 30–60 second vertical video blueprints (TikTok, Instagram Reels, YouTube Shorts).
 
-![ShortsCraft Studio Screenshot](./screenshot.png)
+![ShortsCraft Studio Screenshot](./public/screenshot.jpeg)
 
 ## Core Features ✨
 
